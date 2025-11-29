@@ -1,0 +1,5 @@
+{
+  "name": "PyMaster AI",
+  "description": "A gamified, bilingual (English/Hindi) Python learning platform powered by Gemini. Solve AI-generated coding challenges, get real-time feedback, and level up your skills.",
+  "requestFramePermissions": []
+}
